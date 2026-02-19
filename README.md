@@ -2,6 +2,9 @@
 - 静态网页下载软件存放仓库，
 - 因为使用Workers Pages 加速大于30m的文件有限制
 
+# 预览地址
+- [预览地址](https://atx8t.github.io/SoftwareDownload/)
+
 # 实现跨越仓库提供下载方式
 - 启用这个仓库的pages服务，
 - 用 GitHub Pages 直链（推荐，支持大文件）
