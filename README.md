@@ -26,7 +26,7 @@ https://atx8t.github.io/SoftwareDownload/AndroidApp/Telegram(1).apk
 
 <section id="download" class="elixir-card">
     <h2 class="sect-title">功法下载</h2>
-    <button class="download-btn" onclick="window.location.href='https://atx8t.github.io/SoftwareDownload/AndroidApp/Telegram(1).apk'">
+    <button class="download-btn" onclick="window.location.href='https://atx8t.github.io/SoftwareDownload/AndroidApp/taptapc.apk'">
         🎴 下载《玄天秘录》安卓版
     </button>
 </section>
